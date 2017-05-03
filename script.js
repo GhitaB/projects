@@ -80,15 +80,15 @@ angular.module('galleryApp', [])
     gallery.items = [
       {
         id: 0,
-        img: '00.png',
+        img: 'ZZ.png',
         done: 100,
         title: {
-          ro: "Coperta",
-          en: "Cover"
+          ro: "Exemplu proiect",
+          en: "Sample project"
         },
         text: {
-          ro: "Coperta cărții (color)",
-          en: "Book cover (color)"
+          ro: "Detalii aici",
+          en: "Details here"
         }
       }
     ];
