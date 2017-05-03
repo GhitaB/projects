@@ -1,2 +1,2 @@
 # projects
-a list projects in which I participate or participated
+a list of projects in which I participate or participated
