@@ -13,34 +13,19 @@ angular.module('galleryApp', [])
       ro: "o listă de proiecte la care particip sau am participat"
     };
 
-    gallery.intro = {
-      ro: "Ghiță Bizău",
-      en: "Ghiță Bizău"
-    };
-
-    gallery.episode = {
-      ro: "Proiect",
-      en: "Project"
-    };
-
     gallery.complete = {
       ro: "Realizat",
       en: "Complete"
     };
 
-    gallery.you_can_help = {
-      ro: "Poți să ajuți.",
-      en: "You can help."
-    };
-
     gallery.credits = {
       title: {
-        ro: "Despre",
-        en: "About"
+        ro: "Contact",
+        en: "Contact"
       },
       text: {
-        ro: "credits",
-        en: "credits"
+        ro: "ghita_bizau@yahoo.com",
+        en: "ghita_bizau@yahoo.com"
       }
     };
 
@@ -79,18 +64,18 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
-        id: 0,
-        img: 'ZZ.png',
-        done: 100,
+        id: '02.2017 - present',
+        img: 'https://ghitab.github.io/miracles-of-jesus/Latest/00.png',
+        done: 95,
         title: {
-          ro: "Exemplu proiect",
-          en: "Sample project"
+          ro: "Minunile lui Isus",
+          en: "Miracles of Jesus"
         },
         text: {
-          ro: "Detalii aici",
-          en: "Details here"
+          ro: "carte de colorat",
+          en: "coloring book"
         },
-        url: "http:www.google.com"
+        url: "https://ghitab.github.io/miracles-of-jesus/"
       }
     ];
 

@@ -57,12 +57,12 @@
                   <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                       <a href="{{item.url}}" target="_blank">
-                        <img ng-src="Latest/{{item.img}}" class="img-responsive img-rounded">
+                        <img ng-src="{{item.img}}" class="img-responsive img-rounded">
                       </a>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 
-                      <h4>{{gallery.episode[gallery.language]}} {{item.id}}</h4>
+                      <h4>{{item.id}}</h4>
 
                       <h3>{{item.title[gallery.language]}}</h3>
                       <div class="caption">
@@ -81,8 +81,6 @@
                 </div>
               </div>
             </div>
-
-            <p class="text-center">ghita_bizau@yahoo.com</p>
 
             <!-- About -->
             <h3 class="text-center">{{gallery.credits.title[gallery.language]}}</h3>
