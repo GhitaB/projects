@@ -76,6 +76,90 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "https://ghitab.github.io/miracles-of-jesus/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Proverbe-356x516.jpg',
+        done: 100,
+        title: {
+          ro: "Cartea Proverbelor",
+          en: "Proverbs"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/cartea-proverbelor/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Desen-Isaac-2013-363x516.jpg',
+        done: 100,
+        title: {
+          ro: "Isaac",
+          en: "Isaac"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/isaac/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Colorat-Moise-353x516.jpg',
+        done: 100,
+        title: {
+          ro: "Moise, copilul de pe Nil",
+          en: "Moses"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/moise-copilul-de-pe-nil/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Potopul-356x516.jpg',
+        done: 100,
+        title: {
+          ro: "Potopul lui Noe",
+          en: "Noah"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Rebeca-358x516.jpg',
+        done: 100,
+        title: {
+          ro: "Rebeca",
+          en: "Rebecca"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/carte-de-colorat-rebeca/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Cop_Babel-355x516.jpg',
+        done: 100,
+        title: {
+          ro: "Turnul Babel",
+          en: "Tower of Babel"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/turnul-babel/"
       }
     ];
 
