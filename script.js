@@ -89,7 +89,8 @@ angular.module('galleryApp', [])
         text: {
           ro: "Detalii aici",
           en: "Details here"
-        }
+        },
+        url: "http:www.google.com"
       }
     ];
 
