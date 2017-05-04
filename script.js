@@ -64,7 +64,21 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
-        id: '02.2017 - present',
+        id: '20.05.2016 - present',
+        img: 'http://ghitab.github.io/jonah-illustrated-book/Latest/01.png',
+        done: 50,
+        title: {
+          ro: "Iona",
+          en: "Jonah"
+        },
+        text: {
+          ro: "carte ilustrată pentru copii",
+          en: "illustrated book for kids"
+        },
+        url: "http://ghitab.github.io/jonah-illustrated-book/"
+      },
+      {
+        id: '12.02.2017 - present',
         img: 'https://ghitab.github.io/miracles-of-jesus/Latest/00.png',
         done: 95,
         title: {
