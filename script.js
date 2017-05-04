@@ -174,6 +174,20 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "http://www.farulsperantei.ro/produs/turnul-babel/"
+      },
+      {
+        id: '...',
+        img: 'https://images-na.ssl-images-amazon.com/images/I/51zcXMjkIoL._SX258_BO1,204,203,200_.jpg',
+        done: 100,
+        title: {
+          ro: "Balada unui greier mic",
+          en: "Balada unui greier mic"
+        },
+        text: {
+          ro: "ilustrații color, pictură digitală",
+          en: "illustrations, digital painting"
+        },
+        url: "https://www.amazon.co.uk/BALADA-UNUI-GREIER-GEORGE-TOPIRCEANU/dp/6068500039"
       }
     ];
 
