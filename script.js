@@ -120,6 +120,20 @@ angular.module('galleryApp', [])
         url: "https://www.amazon.co.uk/BALADA-UNUI-GREIER-GEORGE-TOPIRCEANU/dp/6068500039"
       },
       {
+        id: '2013',
+        img: 'Latest/condeiul.jpg',
+        done: 100,
+        title: {
+          ro: "Condeiul fermecat",
+          en: "Condeiul fermecat"
+        },
+        text: {
+          ro: "caiet de caligrafie (desene și text caligrafic pentru exerciții)",
+          en: "calligraphy notebook (drawings and calligraphic text for exercises)"
+        },
+        url: "#"
+      },
+      {
         id: '2010-2013',
         img: 'Latest/desenez-net.png',
         done: 100,
@@ -173,7 +187,7 @@ angular.module('galleryApp', [])
           ro: "ilustrații",
           en: "illustrations"
         },
-        url: "http://ghitab.blogspot.com"
+        url: "#"
       },
       {
         id: '2010',
