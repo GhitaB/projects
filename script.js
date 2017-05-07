@@ -92,7 +92,7 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/miracles-of-jesus/"
       },
       {
-        id: '...',
+        id: '2014',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Colorat-Moise-353x516.jpg',
         done: 100,
         title: {
@@ -162,7 +162,21 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/turnul-babel/"
       },
       {
-        id: '...',
+        id: '2011',
+        img: 'Latest/ZZ.png',
+        done: 100,
+        title: {
+          ro: "Pe drumul înțelepților",
+          en: "Pe drumul înțelepților"
+        },
+        text: {
+          ro: "ilustrații",
+          en: "illustrations"
+        },
+        url: "http://ghitab.blogspot.com"
+      },
+      {
+        id: '2010',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Rebeca-358x516.jpg',
         done: 100,
         title: {
@@ -176,7 +190,7 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/carte-de-colorat-rebeca/"
       },
       {
-        id: '...',
+        id: '2010',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Potopul-356x516.jpg',
         done: 100,
         title: {
@@ -188,20 +202,6 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
-      },
-      {
-        id: '2009',
-        img: 'Latest/ZZ.png',
-        done: 100,
-        title: {
-          ro: "Dor de țară",
-          en: "Dor de țară"
-        },
-        text: {
-          ro: "muzică creștină, CD",
-          en: "christian music, CD"
-        },
-        url: "http://ghitab.blogspot.com"
       },
       {
         id: '2009-2010',
@@ -216,6 +216,20 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "http://www.farulsperantei.ro/produs/cartea-proverbelor/"
+      },
+      {
+        id: '2009',
+        img: 'Latest/ZZ.png',
+        done: 100,
+        title: {
+          ro: "Dor de țară",
+          en: "Dor de țară"
+        },
+        text: {
+          ro: "muzică creștină, CD",
+          en: "christian music, CD"
+        },
+        url: "http://ghitab.blogspot.com"
       }
     ];
 
