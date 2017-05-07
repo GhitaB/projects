@@ -162,7 +162,7 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/carte-de-colorat-rebeca/"
       },
       {
-        id: '...',
+        id: '2013',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Cop_Babel-355x516.jpg',
         done: 100,
         title: {
