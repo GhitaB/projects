@@ -93,17 +93,31 @@ angular.module('galleryApp', [])
       },
       {
         id: '...',
-        img: 'http://www.farulsperantei.ro/wp-content/uploads/Proverbe-356x516.jpg',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Colorat-Moise-353x516.jpg',
         done: 100,
         title: {
-          ro: "Cartea Proverbelor",
-          en: "Proverbs"
+          ro: "Moise, copilul de pe Nil",
+          en: "Moses"
         },
         text: {
           ro: "carte de colorat",
           en: "coloring book"
         },
-        url: "http://www.farulsperantei.ro/produs/cartea-proverbelor/"
+        url: "http://www.farulsperantei.ro/produs/moise-copilul-de-pe-nil/"
+      },
+      {
+        id: '2013-2014',
+        img: 'https://images-na.ssl-images-amazon.com/images/I/51zcXMjkIoL._SX258_BO1,204,203,200_.jpg',
+        done: 100,
+        title: {
+          ro: "Balada unui greier mic",
+          en: "Balada unui greier mic"
+        },
+        text: {
+          ro: "ilustrații color, pictură digitală",
+          en: "illustrations, digital painting"
+        },
+        url: "https://www.amazon.co.uk/BALADA-UNUI-GREIER-GEORGE-TOPIRCEANU/dp/6068500039"
       },
       {
         id: '2013',
@@ -118,48 +132,6 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "http://www.farulsperantei.ro/produs/isaac/"
-      },
-      {
-        id: '...',
-        img: 'http://www.farulsperantei.ro/wp-content/uploads/Colorat-Moise-353x516.jpg',
-        done: 100,
-        title: {
-          ro: "Moise, copilul de pe Nil",
-          en: "Moses"
-        },
-        text: {
-          ro: "carte de colorat",
-          en: "coloring book"
-        },
-        url: "http://www.farulsperantei.ro/produs/moise-copilul-de-pe-nil/"
-      },
-      {
-        id: '...',
-        img: 'http://www.farulsperantei.ro/wp-content/uploads/Potopul-356x516.jpg',
-        done: 100,
-        title: {
-          ro: "Potopul lui Noe",
-          en: "Noah"
-        },
-        text: {
-          ro: "carte de colorat",
-          en: "coloring book"
-        },
-        url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
-      },
-      {
-        id: '...',
-        img: 'http://www.farulsperantei.ro/wp-content/uploads/Rebeca-358x516.jpg',
-        done: 100,
-        title: {
-          ro: "Rebeca",
-          en: "Rebecca"
-        },
-        text: {
-          ro: "carte de colorat",
-          en: "coloring book"
-        },
-        url: "http://www.farulsperantei.ro/produs/carte-de-colorat-rebeca/"
       },
       {
         id: '2013',
@@ -177,17 +149,45 @@ angular.module('galleryApp', [])
       },
       {
         id: '...',
-        img: 'https://images-na.ssl-images-amazon.com/images/I/51zcXMjkIoL._SX258_BO1,204,203,200_.jpg',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Rebeca-358x516.jpg',
         done: 100,
         title: {
-          ro: "Balada unui greier mic",
-          en: "Balada unui greier mic"
+          ro: "Rebeca",
+          en: "Rebecca"
         },
         text: {
-          ro: "ilustrații color, pictură digitală",
-          en: "illustrations, digital painting"
+          ro: "carte de colorat",
+          en: "coloring book"
         },
-        url: "https://www.amazon.co.uk/BALADA-UNUI-GREIER-GEORGE-TOPIRCEANU/dp/6068500039"
+        url: "http://www.farulsperantei.ro/produs/carte-de-colorat-rebeca/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Potopul-356x516.jpg',
+        done: 100,
+        title: {
+          ro: "Potopul lui Noe",
+          en: "Noah"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
+      },
+      {
+        id: '...',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Proverbe-356x516.jpg',
+        done: 100,
+        title: {
+          ro: "Cartea Proverbelor",
+          en: "Proverbs"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "http://www.farulsperantei.ro/produs/cartea-proverbelor/"
       }
     ];
 
