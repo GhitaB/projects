@@ -190,7 +190,7 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
       },
       {
-        id: '...',
+        id: '2012',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Proverbe-356x516.jpg',
         done: 100,
         title: {
