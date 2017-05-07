@@ -121,7 +121,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2010-2013',
-        img: 'Images/desenez-net.png',
+        img: 'Latest/desenez-net.png',
         done: 100,
         title: {
           ro: "www.desenez.net",
@@ -188,6 +188,20 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "http://www.farulsperantei.ro/produs/potopul-lui-noe/"
+      },
+      {
+        id: '2009',
+        img: 'Latest/ZZ.png',
+        done: 100,
+        title: {
+          ro: "Dor de țară",
+          en: "Dor de țară"
+        },
+        text: {
+          ro: "muzică creștină, CD",
+          en: "christian music, CD"
+        },
+        url: "http://ghitab.blogspot.com"
       },
       {
         id: '2009',
