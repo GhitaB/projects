@@ -204,7 +204,7 @@ angular.module('galleryApp', [])
         url: "http://ghitab.blogspot.com"
       },
       {
-        id: '2009',
+        id: '2009-2010',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Proverbe-356x516.jpg',
         done: 100,
         title: {
