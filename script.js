@@ -120,6 +120,20 @@ angular.module('galleryApp', [])
         url: "https://www.amazon.co.uk/BALADA-UNUI-GREIER-GEORGE-TOPIRCEANU/dp/6068500039"
       },
       {
+        id: '2010-2013',
+        img: 'Images/desenez-net.png',
+        done: 100,
+        title: {
+          ro: "www.desenez.net",
+          en: "www.desenez.net"
+        },
+        text: {
+          ro: "PHP, MySQL, programare web",
+          en: "PHP, MySQL, web development"
+        },
+        url: "http://www.desenez.net"
+      },
+      {
         id: '2013',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Desen-Isaac-2013-363x516.jpg',
         done: 100,
