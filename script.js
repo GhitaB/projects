@@ -106,7 +106,7 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/cartea-proverbelor/"
       },
       {
-        id: '...',
+        id: '2013',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Desen-Isaac-2013-363x516.jpg',
         done: 100,
         title: {
