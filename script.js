@@ -163,7 +163,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2011',
-        img: 'Latest/ZZ.png',
+        img: 'Latest/drumul.jpg',
         done: 100,
         title: {
           ro: "Pe drumul înțelepților",
