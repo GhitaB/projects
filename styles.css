@@ -27,19 +27,7 @@ p, p.page-desctiption, body {
 
 /* CUSTOM DESIGN */
 body {
-  color: #111111;
   font-family: sans-serif;
-}
-
-h1.title {
-  font-size: 4vw;
-  font-family: serif;
-  color: #111111;
-}
-
-h2.title {
-  font-size: 2vw;
-  color: #CCCCCC;
 }
 
 h3 {
