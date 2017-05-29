@@ -81,20 +81,18 @@
                   <img ng-src="{{item.img}}"
                        class="img-responsive" />
                 </a>
-                <div class="progress">
-                  <div class="progress-bar progress-bar-{{gallery.get_progress(item.done)}}"
-                       role="progressbar"
-                       aria-valuenow="{{item.done}}" aria-valuemin="0"
-                       aria-valuemax="100"
-                       style="width:{{item.done}}%">
-                    {{item.done}}% {{gallery.complete[gallery.language]}}
-                  </div>
-                </div>
+                <p class="text-center">
+                  {{item.done}}% {{gallery.complete[gallery.language]}}
+                </p>
               </div>
 
               <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
                 <h4>{{item.id}}</h4>
-                <h3>{{item.title[gallery.language]}}</h3>
+                <h3>
+                  <a href="{{item.url}}" target="_blank">
+                    {{item.title[gallery.language]}}
+                  </a>
+                </h3>
                 <div class="caption">
                   <p>{{item.text[gallery.language]}}</p>
                 </div>

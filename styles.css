@@ -13,7 +13,8 @@ h4 {
 }
 
 div#gallery div.gallery-item {
-  margin-top: 50px;
+  margin-top: 25px;
+  padding-top: 25px;
   border-top: 1px solid #EEEEEE;
 }
 
@@ -40,6 +41,7 @@ div#gallery div.gallery-item div.progress {
 ul.languages img.flag {
   width: 50px;
   height: 30px;
+  cursor: pointer;
 }
 
 ul.languages li {
