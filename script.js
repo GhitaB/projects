@@ -176,6 +176,20 @@ angular.module('galleryApp', [])
         url: "http://www.farulsperantei.ro/produs/turnul-babel/"
       },
       {
+        id: '2013',
+        img: 'http://i.imgur.com/wP4x0W3.png',
+        done: 100,
+        title: {
+          ro: "Puzzle (joc)",
+          en: "Puzzle (game)"
+        },
+        text: {
+          ro: "Joc cu numere, javascript",
+          en: "Game with numbers, javascript"
+        },
+        url: "http://ghitab.github.io/Puzzle/"
+      },
+      {
         id: '2011',
         img: 'Latest/drumul.jpg',
         done: 100,
