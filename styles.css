@@ -4,24 +4,22 @@ body {
 
 h3 {
   font-size: 30px;
-  color: #111111;
   text-align: left;
 }
 
 h4 {
   font-size: 20px;
-  color: #CCCCCC;
   text-align: left;
 }
 
 div#gallery div.gallery-item {
   margin-top: 50px;
-  border-top: 5px dotted #CCCCCC;
+  border-top: 1px solid #EEEEEE;
 }
 
 div#gallery div.gallery-item img {
   border-radius: 0;
-  max-height: 40vh;
+  max-height: 20vh;
   margin: 10px auto 0 auto;
   border: 1px solid #111111;
 }
@@ -30,8 +28,7 @@ div#gallery div.gallery-item div.caption {
   margin-top: 10px;
   padding: 20px;
   border-radius: 0;
-  background: #EEEEEE;
-  color: #111111;
+  background: #F5F5F5;
   font-size: 16px;
   text-align: left;
 }
@@ -43,10 +40,6 @@ div#gallery div.gallery-item div.progress {
 ul.languages img.flag {
   width: 50px;
   height: 30px;
-}
-
-ul.languages {
-  margin-top: 20px;
 }
 
 ul.languages li {
