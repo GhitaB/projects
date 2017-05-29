@@ -92,6 +92,20 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/miracles-of-jesus/"
       },
       {
+        id: '2015',
+        img: 'http://i.imgur.com/qA8Wv3m.png',
+        done: 100,
+        title: {
+          ro: "Generator de cuvinte încurcate ascunse (joc)",
+          en: "Word Search Maker (game)"
+        },
+        text: {
+          ro: "angularjs, jquery, generează joc de căutare de cuvinte",
+          en: "angularjs, jquery, create your own game with hidden words"
+        },
+        url: "http://ghitab.github.io/word-search-maker/"
+      },
+      {
         id: '2014',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Colorat-Moise-353x516.jpg',
         done: 100,
