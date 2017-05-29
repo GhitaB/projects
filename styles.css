@@ -22,7 +22,12 @@ div#gallery div.gallery-item img {
   border-radius: 0;
   max-height: 20vh;
   margin: 10px auto 0 auto;
-  border: 1px solid #111111;
+  border: 1px solid #EEEEEE;
+  padding: 10px;
+}
+
+div#gallery div.gallery-item img:hover {
+  border-color: #666666;
 }
 
 div#gallery div.gallery-item div.caption {
