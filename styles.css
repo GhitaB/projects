@@ -1,6 +1,7 @@
 /* DEFAULT DESIGN */
 body {
   background-image: url(https://raw.githubusercontent.com/GhitaB/profile/master/background-texture.png);
+  background-attachment: fixed;
 }
 
 .container {
