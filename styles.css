@@ -1,5 +1,31 @@
+/* DEFAULT DESIGN */
 body {
+  background-image: url(https://raw.githubusercontent.com/GhitaB/profile/master/background-texture.png);
+}
+
+.container {
   background: #FFFFFF;
+  min-height: 120vh;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+h1.page-title {
+  color: #000000;
+  font: normal normal 40px Dancing Script;
+}
+
+h2.section-title {
+  color: #666666;
+}
+
+p, p.page-desctiption, body {
+  color: #666666;
+}
+
+
+/* CUSTOM DESIGN */
+body {
   color: #111111;
   font-family: sans-serif;
 }
