@@ -106,6 +106,20 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/miracles-of-jesus/"
       },
       {
+        id: '2016',
+        img: 'http://i.imgur.com/iVExoF6.png',
+        done: 100,
+        title: {
+          ro: "Culori mai frumoase",
+          en: "Beautify colors"
+        },
+        text: {
+          ro: "paletă drăguță de culori derivată din culorile alese de tine",
+          en: "nice palette from given colors"
+        },
+        url: "https://ghitab.github.io/beautify-colors/"
+      },
+      {
         id: '2015',
         img: 'http://i.imgur.com/vfsRtCY.jpg',
         done: 100,
