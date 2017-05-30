@@ -93,6 +93,20 @@ angular.module('galleryApp', [])
       },
       {
         id: '2015',
+        img: 'http://i.imgur.com/vfsRtCY.jpg',
+        done: 100,
+        title: {
+          ro: "Ghicește numărul (joc)",
+          en: "Guess my number (game)"
+        },
+        text: {
+          ro: "jquery, ghicește numărul din 4 cifre",
+          en: "jquery, guess the 4 digits number"
+        },
+        url: "http://ghitab.github.io/guess-my-number/"
+      },
+      {
+        id: '2015',
         img: 'http://i.imgur.com/qA8Wv3m.png',
         done: 100,
         title: {
