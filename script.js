@@ -64,6 +64,20 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
+        id: '09.05.2017 - present',
+        img: 'https://ghitab.github.io/coloring-pages/Latest/001%20Genesis%201v1%201-0%20-%20protected.png',
+        done: 10,
+        title: {
+          ro: "Desene de colorat",
+          en: "Coloring pages"
+        },
+        text: {
+          ro: "inspirate din Biblie",
+          en: "inspired from Bible"
+        },
+        url: "https://ghitab.github.io/coloring-pages/"
+      },
+      {
         id: '20.05.2016 - present',
         img: 'http://ghitab.github.io/jonah-illustrated-book/Latest/01.png',
         done: 50,
