@@ -106,6 +106,20 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/miracles-of-jesus/"
       },
       {
+        id: '2017',
+        img: 'https://ghitab.github.io/timeline/Images/1994_01.jpg',
+        done: 100,
+        title: {
+          ro: "Ghiță Bizău - Cronologie",
+          en: "Ghiță Bizău - Timeline"
+        },
+        text: {
+          ro: "câteva momente din viața mea",
+          en: "some moments in my life"
+        },
+        url: "https://ghitab.github.io/timeline/"
+      },
+      {
         id: '2016',
         img: 'http://i.imgur.com/iVExoF6.png',
         done: 100,
