@@ -120,6 +120,20 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/timeline/"
       },
       {
+        id: '2017',
+        img: 'http://i.imgur.com/DM0YvZu.png',
+        done: 100,
+        title: {
+          ro: "Implementat design pentru EEA Copernicus In Situ",
+          en: "Implemented design for EEA Copernicus In Situ"
+        },
+        text: {
+          ro: "Bootstrap, CSS. E folosit aici: http://insitu.copernicus.eu/library/fact-sheets",
+          en: "Bootstrap, CSS. It is used here: http://insitu.copernicus.eu/library/fact-sheets"
+        },
+        url: "https://ghitab.github.io/insitu-fact-sheet-design/"
+      },
+      {
         id: '2016',
         img: 'http://i.imgur.com/iVExoF6.png',
         done: 100,
