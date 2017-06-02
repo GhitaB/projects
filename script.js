@@ -18,17 +18,6 @@ angular.module('galleryApp', [])
       en: "Complete"
     };
 
-    gallery.credits = {
-      title: {
-        ro: "Contact",
-        en: "Contact"
-      },
-      text: {
-        ro: "ghita_bizau@yahoo.com",
-        en: "ghita_bizau@yahoo.com"
-      }
-    };
-
     gallery.languages = [
       {
         short: "ro",
@@ -43,22 +32,6 @@ angular.module('galleryApp', [])
     gallery.change_language = function(language) {
       gallery.language = language;
       console.log(language);
-    };
-
-    gallery.get_progress = function(done) {
-      if(done <= 10) {
-        return "danger"
-      } else {
-        if(done > 80) {
-          return "success"
-        } else {
-          if(done <= 50) {
-            return "warning"
-          } else {
-            return "info"
-          }
-        }
-      }
     };
 
     // EDIT HERE
