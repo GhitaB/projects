@@ -315,6 +315,20 @@ angular.module('galleryApp', [])
           en: "christian music, CD"
         },
         url: "http://ghitab.blogspot.com"
+      },
+      {
+        id: '2006?',
+        img: 'Latest/ZZ.png',
+        done: 100,
+        title: {
+          ro: "Pribeag",
+          en: "Pribeag"
+        },
+        text: {
+          ro: "muzică creștină, CD",
+          en: "christian music, CD"
+        },
+        url: "http://www.aievea.net/ghita-bizau-pribeag"
       }
     ];
 
