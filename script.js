@@ -80,6 +80,20 @@ angular.module('galleryApp', [])
       },
       {
         id: '2017',
+        img: 'Latest/ZZ.png',
+        done: 100,
+        title: {
+          ro: "Ghiță Bizău - Muzică",
+          en: "Ghiță Bizău - Music"
+        },
+        text: {
+          ro: "câteva înregistrări de ale mele (chitară)",
+          en: "some of my recordings (guitar)"
+        },
+        url: "https://ghitab.github.io/music/"
+      },
+      {
+        id: '2017',
         img: 'https://ghitab.github.io/timeline/Images/1994_01.jpg',
         done: 100,
         title: {
