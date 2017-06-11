@@ -200,7 +200,7 @@ angular.module('galleryApp', [])
         },
         text: {
           ro: "Conflict și biruință - Davi Paes Silva. Am citit-o și am trimis la editură greșelile găsite, înainte de a fi publicată în română.",
-          en: "Conflict și biruință - Davi Paes Silva. I read it and sent to the publishing house the errors before they published it in romanian."
+          en: "Conflict and victory - Davi Paes Silva. I read it and sent to the publishing house the errors before they published it in romanian."
         },
         url: "http://www.farulsperantei.ro/produs/conflict-si-biruinta/"
       },
