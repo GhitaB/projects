@@ -192,6 +192,20 @@ angular.module('galleryApp', [])
       },
       {
         id: '2013',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Cop-Conflict-353x516.jpg',
+        done: 100,
+        title: {
+          ro: "Corectură carte (română)",
+          en: "Book correction (romanian)"
+        },
+        text: {
+          ro: "Conflict și biruință - Davi Paes Silva. Am citit-o și am trimis la editură greșelile găsite, înainte de a fi publicată în română.",
+          en: "Conflict și biruință - Davi Paes Silva. I read it and sent to the publishing house the errors before they published it in romanian."
+        },
+        url: "http://www.farulsperantei.ro/produs/conflict-si-biruinta/"
+      },
+      {
+        id: '2013',
         img: 'http://www.farulsperantei.ro/wp-content/uploads/Istoria-MR-366x516.jpg',
         done: 100,
         title: {
