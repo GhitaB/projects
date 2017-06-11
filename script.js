@@ -192,6 +192,20 @@ angular.module('galleryApp', [])
       },
       {
         id: '2013',
+        img: 'http://www.farulsperantei.ro/wp-content/uploads/Istoria-MR-366x516.jpg',
+        done: 100,
+        title: {
+          ro: "Corectură carte (română)",
+          en: "Book correction (romanian)"
+        },
+        text: {
+          ro: "Istoria Mișcării de Reformă a Adventiștilor de Ziua a Șaptea - Alfons Balbach. Am citit-o și am trimis la editură greșelile găsite, înainte de a fi publicată în română.",
+          en: "History of the Seventh Day Adventist Reform Movement - Alfons Balbach. I read it and sent to the publishing house the errors before they published it in romanian."
+        },
+        url: "http://www.farulsperantei.ro/produs/istoria-miscarii-de-reforma/"
+      },
+      {
+        id: '2013',
         img: 'http://www.restvegan.ro/wp-content/uploads/2015/07/Cop_Retete-fata-412x600.jpg',
         done: 100,
         title: {
