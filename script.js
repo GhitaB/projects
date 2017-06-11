@@ -192,6 +192,20 @@ angular.module('galleryApp', [])
       },
       {
         id: '2013',
+        img: 'http://www.restvegan.ro/wp-content/uploads/2015/07/Cop_Retete-fata-412x600.jpg',
+        done: 100,
+        title: {
+          ro: "Copertă de carte - design",
+          en: "Book cover design"
+        },
+        text: {
+          ro: "design copertă carte și câteva pagini interior pentru cartea cu rețete vegetariene a Restaurantului Vegetarian Cris Oradea",
+          en: "book cover design (also for some pages) for Restaurant Vegetarian Cris Oradea"
+        },
+        url: "http://www.restvegan.ro/shop/retete-vegetariene/"
+      },
+      {
+        id: '2013',
         img: 'Latest/condeiul.jpg',
         done: 100,
         title: {
