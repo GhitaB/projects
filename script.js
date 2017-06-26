@@ -65,6 +65,20 @@ angular.module('galleryApp', [])
         url: "http://ghitab.github.io/jonah-illustrated-book/"
       },
       {
+        id: '25.06.2017 - 26.06.2017',
+        img: './Latest/lessons.png',
+        done: 100,
+        title: {
+          ro: "Comorile copiilor IV/3",
+          en: "Children's Treasures IV/3"
+        },
+        text: {
+          ro: "corectură text",
+          en: "text correction"
+        },
+        url: "http://ghitab.blogspot.com"
+      },
+      {
         id: '12.02.2017 - present',
         img: 'https://ghitab.github.io/miracles-of-jesus/Latest/00.png',
         done: 95,
