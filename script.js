@@ -73,8 +73,8 @@ angular.module('galleryApp', [])
           en: "Children's Treasures IV/3"
         },
         text: {
-          ro: "corectură text",
-          en: "text correction"
+          ro: "corectură text (română, 55 pagini)",
+          en: "text correction (romanian, 55 pages)"
         },
         url: "http://ghitab.blogspot.com"
       },
