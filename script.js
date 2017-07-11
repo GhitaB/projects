@@ -37,6 +37,20 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
+        id: '27.06.2017 - present',
+        img: 'https://ghitab.github.io/esther/Latest/00.png',
+        done: 15,
+        title: {
+          ro: "Estera",
+          en: "Esther"
+        },
+        text: {
+          ro: "carte de colorat",
+          en: "coloring book"
+        },
+        url: "https://ghitab.github.io/esther/"
+      },
+      {
         id: '09.05.2017 - present',
         img: 'https://ghitab.github.io/coloring-pages/Latest/001%20Genesis%201v1%201-0%20-%20protected.png',
         done: 10,
