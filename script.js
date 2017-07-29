@@ -39,7 +39,7 @@ angular.module('galleryApp', [])
       {
         id: '27.06.2017 - present',
         img: 'https://ghitab.github.io/esther/Latest/00.png',
-        done: 21,
+        done: 27,
         title: {
           ro: "Estera",
           en: "Esther"
