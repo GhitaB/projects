@@ -388,7 +388,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2009',
-        img: 'Images/dor_de_tara_preview.jpg',
+        img: 'Latest/dor_de_tara_preview.jpg',
         done: 100,
         title: {
           ro: "Dor de țară",
@@ -401,8 +401,8 @@ angular.module('galleryApp', [])
         url: "http://aievea.net/dor-de-tara"
       },
       {
-        id: '2006?',
-        img: 'Latest/ZZ.png',
+        id: '05.2006',
+        img: 'Latest/pribeag.png',
         done: 100,
         title: {
           ro: "Pribeag",
