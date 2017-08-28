@@ -108,7 +108,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2017',
-        img: 'Latest/ZZ.png',
+        img: 'Latest/music.jpg',
         done: 100,
         title: {
           ro: "Ghiță Bizău - Muzică",
