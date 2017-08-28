@@ -388,7 +388,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2009',
-        img: 'Latest/ZZ.png',
+        img: 'Images/dor_de_tara_preview.jpg',
         done: 100,
         title: {
           ro: "Dor de țară",
@@ -398,7 +398,7 @@ angular.module('galleryApp', [])
           ro: "muzică creștină, CD",
           en: "christian music, CD"
         },
-        url: "http://ghitab.blogspot.com"
+        url: "http://aievea.net/dor-de-tara"
       },
       {
         id: '2006?',
