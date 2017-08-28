@@ -402,7 +402,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '05.2006',
-        img: 'Latest/pribeag.png',
+        img: 'Latest/pribeag.jpg',
         done: 100,
         title: {
           ro: "Pribeag",
