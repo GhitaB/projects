@@ -93,9 +93,9 @@ angular.module('galleryApp', [])
         url: "http://ghitab.blogspot.com"
       },
       {
-        id: '12.02.2017 - present',
+        id: '12.02.2017 - 15.02.2018',
         img: 'https://ghitab.github.io/miracles-of-jesus/Latest/00.png',
-        done: 95,
+        done: 100,
         title: {
           ro: "Minunile lui Isus",
           en: "Miracles of Jesus"
