@@ -37,6 +37,20 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
+        id: '01.03.2018 - present',
+        img: './Latest/unu3unu8.png',
+        done: 10,
+        title: {
+          ro: "unu 3 unu 8",
+          en: "unu 3 unu 8"
+        },
+        text: {
+          ro: "blog cu scrieri",
+          en: "blogging"
+        },
+        url: "http://unu3unu8.blogspot.ro/"
+      },
+      {
         id: '27.06.2017 - present',
         img: 'https://ghitab.github.io/esther/Latest/00.png',
         done: 27,
