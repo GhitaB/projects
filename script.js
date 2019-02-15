@@ -37,9 +37,23 @@ angular.module('galleryApp', [])
     // EDIT HERE
     gallery.items = [
       {
+        id: '10.02.2019 - present',
+        img: './Latest/happywords.png',
+        done: 10,
+        title: {
+          ro: "happywords.ro",
+          en: "happywords.ro"
+        },
+        text: {
+          ro: "site wordpress",
+          en: "wordpress website"
+        },
+        url: "http://whatwelove.ro/"
+      },
+      {
         id: '13.01.2019',
         img: './Latest/whatwelove.png',
-        done: 10,
+        done: 100,
         title: {
           ro: "whatwelove.ro",
           en: "whatwelove.ro"
