@@ -41,14 +41,14 @@ angular.module('galleryApp', [])
         img: './Latest/happywords.png',
         done: 10,
         title: {
-          ro: "happywords.ro",
-          en: "happywords.ro"
+          ro: "happywords.net",
+          en: "happywords.net"
         },
         text: {
           ro: "site wordpress",
           en: "wordpress website"
         },
-        url: "http://whatwelove.ro/"
+        url: "https://happywords.net/"
       },
       {
         id: '13.01.2019',
