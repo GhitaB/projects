@@ -79,20 +79,6 @@ angular.module('galleryApp', [])
         url: "https://ghitab.github.io/esther/"
       },
       {
-        id: '09.05.2017 - present',
-        img: 'https://ghitab.github.io/coloring-pages/Latest/001%20Genesis%201v1%201-0%20-%20protected.png',
-        done: 10,
-        title: {
-          ro: "Desene de colorat",
-          en: "Coloring pages"
-        },
-        text: {
-          ro: "inspirate din Biblie",
-          en: "inspired from Bible"
-        },
-        url: "https://ghitab.github.io/coloring-pages/"
-      },
-      {
         id: '20.05.2016 - present',
         img: 'http://ghitab.github.io/jonah-illustrated-book/Latest/01.png',
         done: 50,
@@ -107,20 +93,6 @@ angular.module('galleryApp', [])
         url: "http://ghitab.github.io/jonah-illustrated-book/"
       },
       {
-        id: '25.06.2017 - 26.06.2017',
-        img: './Latest/lessons.png',
-        done: 100,
-        title: {
-          ro: "Comorile copiilor IV/3",
-          en: "Children's Treasures IV/3"
-        },
-        text: {
-          ro: "corectură text (română, 55 pagini)",
-          en: "text correction (romanian, 55 pages)"
-        },
-        url: "http://ghitab.blogspot.com"
-      },
-      {
         id: '12.02.2017 - 15.02.2018',
         img: 'https://ghitab.github.io/miracles-of-jesus/Latest/00.png',
         done: 100,
@@ -133,20 +105,6 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "https://ghitab.github.io/miracles-of-jesus/"
-      },
-      {
-        id: '2017',
-        img: 'Latest/music.jpg',
-        done: 100,
-        title: {
-          ro: "Ghiță Bizău - Muzică",
-          en: "Ghiță Bizău - Music"
-        },
-        text: {
-          ro: "câteva înregistrări de ale mele (chitară)",
-          en: "some of my recordings (guitar)"
-        },
-        url: "https://ghitab.github.io/music/"
       },
       {
         id: '2017',
