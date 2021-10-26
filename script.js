@@ -46,7 +46,7 @@ angular.module('galleryApp', [])
         },
         text: {
           ro: "site wordpress",
-          en: "wordpress website"
+          en: "Vanilla JavaScript website"
         },
         url: "https://happywords.net/"
       },
@@ -105,20 +105,6 @@ angular.module('galleryApp', [])
           en: "coloring book"
         },
         url: "https://ghitab.github.io/miracles-of-jesus/"
-      },
-      {
-        id: '2017',
-        img: 'https://ghitab.github.io/timeline/Images/1994_01.jpg',
-        done: 100,
-        title: {
-          ro: "Ghiță Bizău - Cronologie",
-          en: "Ghiță Bizău - Timeline"
-        },
-        text: {
-          ro: "câteva momente din viața mea",
-          en: "some moments in my life"
-        },
-        url: "https://ghitab.github.io/timeline/"
       },
       {
         id: '2017',
