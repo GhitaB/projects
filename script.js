@@ -51,20 +51,6 @@ angular.module('galleryApp', [])
         url: "https://happywords.net/"
       },
       {
-        id: '13.01.2019',
-        img: './Latest/whatwelove.png',
-        done: 100,
-        title: {
-          ro: "whatwelove.ro",
-          en: "whatwelove.ro"
-        },
-        text: {
-          ro: "schimbări minore de design și alte îmbunătățiri - site wordpress",
-          en: "minor design changes and other improvement - wordpress website"
-        },
-        url: "http://whatwelove.ro/"
-      },
-      {
         id: '27.06.2017 - present',
         img: 'https://ghitab.github.io/esther/Latest/00.png',
         done: 27,
