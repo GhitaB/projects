@@ -206,7 +206,7 @@ angular.module('galleryApp', [])
       },
       {
         id: '2013',
-        img: 'http://www.restvegan.ro/wp-content/uploads/2015/07/Cop_Retete-fata.jpg',
+        img: 'Latest/retete.png',
         done: 100,
         title: {
           ro: "Copertă de carte - design",
