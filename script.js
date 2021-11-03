@@ -146,7 +146,7 @@ angular.module('galleryApp', [])
           ro: "angularjs, jquery, generează joc de căutare de cuvinte",
           en: "angularjs, jquery, create your own game with hidden words"
         },
-        url: "http://ghitab.github.io/word-search-maker/"
+        url: "https://github.com/Voluntari-Noi/crossword-puzzle-generator"
       },
       {
         id: '2014',
